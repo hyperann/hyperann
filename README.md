@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Anna 👋
 
-<!--
-**hyperann/hyperann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student. I build things that make technology easier to understand, from iOS apps and data analysis to the tools that keep laptops running.
 
-Here are some ideas to get you started:
+- 📱 Currently building an interactive **Swift / SwiftUI** apps
+- 📊 Interested in data analysis, simulation and game-playing bots
+- 🛠️ I like turning slow, manual IT work into tools that run in seconds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🧰 Tech
+
+**Languages:** Python · Swift · PowerShell
+**Apple:** SwiftUI · SceneKit · CoreHaptics · App Playgrounds
+**Data:** pandas · NumPy · NetworkX · PyVis · OpenAlex API
+**Other:** ROS 2 · Git · Windows administration
+
+---
